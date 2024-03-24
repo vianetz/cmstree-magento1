@@ -1,0 +1,13 @@
+{
+  "name": "vianetz/cmstree-magento1",
+  "type": "magento-module",
+  "require": {
+    "php": "^8.2"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-latest"
+  },
+  "suggest": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
